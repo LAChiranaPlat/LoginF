@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/drawable/back.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/drawable/backavatar.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/drawable/backlogin.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/drawable/logopress.xml" value="0.3435185185185185" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/layout/activity_press.xml" value="0.1778115501519757" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/layout/activity_system.xml" value="0.5" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/layout/item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Huarcaya/AndroidStudioProjects/LoginF/app/src/main/res/menu/main.xml" value="0.3703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
